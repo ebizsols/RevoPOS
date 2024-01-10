@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1043781162812",
+    "firebase_url": "https://thedotcoffee.firebaseio.com",
+    "project_id": "thedotcoffee",
+    "storage_bucket": "thedotcoffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043781162812:android:dee323bf1377e4c4677039",
+        "android_client_info": {
+          "package_name": "com.thedotcoffee.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043781162812-r8bmtshiu8jc9vsosha3b5o5ophmb4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mgbajDQDY4xuaG9jUriS5a-hGmTKLSM"
+        },
+        {
+          "current_key": "AIzaSyAsZcyBWfo6mLB-gg4r_9c1n2_zwNtEV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043781162812-r8bmtshiu8jc9vsosha3b5o5ophmb4ik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043781162812-rb7vejdnf82ifm475geic8kvq175la64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "thedot.eateries.coffee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043781162812:android:12fab199f578a9e3677039",
+        "android_client_info": {
+          "package_name": "thedot.eateries.coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043781162812-j9pqb1grakofm8b8chisj0fs7ikgclea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thedot.eateries.coffee",
+            "certificate_hash": "9c531cc5fdf3fbacae6078297da23ec6c8e73b3b"
+          }
+        },
+        {
+          "client_id": "1043781162812-ks3hbpsvhusrkbrf5j1k42ojq6vpg2up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thedot.eateries.coffee",
+            "certificate_hash": "f9475b472f567a9a5ca937eea039cf0232daf5aa"
+          }
+        },
+        {
+          "client_id": "1043781162812-r8bmtshiu8jc9vsosha3b5o5ophmb4ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7mgbajDQDY4xuaG9jUriS5a-hGmTKLSM"
+        },
+        {
+          "current_key": "AIzaSyAsZcyBWfo6mLB-gg4r_9c1n2_zwNtEV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043781162812-r8bmtshiu8jc9vsosha3b5o5ophmb4ik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043781162812-rb7vejdnf82ifm475geic8kvq175la64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "thedot.eateries.coffee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
